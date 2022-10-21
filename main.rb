@@ -60,7 +60,7 @@ class NoughtsAndCrosses
         self.game_state = 'end'
         print "\nJack wins the game\n"
       else
-        game_state == 'end'
+        self.game_state == 'end'
         print "\nJill wins the game\n"
       end
     end
